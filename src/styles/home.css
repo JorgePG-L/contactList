@@ -1,0 +1,11 @@
+/* { border: 1px solid black; }*/
+
+.div_Container{
+    background-color: bisque;
+}
+.princi_card{
+    background-color: rgb(255, 236, 195);
+}
+p,h5{
+    background-color: azure;
+}
